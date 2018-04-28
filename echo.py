@@ -11,7 +11,7 @@ import wave
 
 from scipy.io.wavfile import write
 
-spf=wave.open('E:/RS/ML/Machine learning tuts/Target/Part3(Computer Vision)/09)[FreeTutorials.Us] deep-learning-convolutional-neural-networks-theano-tensorflow/Code/helloworld.wav','r')
+spf=wave.open('','r')
 
 signal=spf.readframes(-1)
 signal=np.fromstring(signal,'Int16')

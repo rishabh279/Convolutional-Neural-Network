@@ -10,7 +10,7 @@ from scipy.signal import convolve2d
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-img=mpimg.imread('E:/RS/ML/Machine learning tuts/Target/Part3(Computer Vision)/09)[FreeTutorials.Us] deep-learning-convolutional-neural-networks-theano-tensorflow/Code/lena.png')
+img=mpimg.imread('')
 
 plt.imshow(img)
 
